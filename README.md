@@ -7,7 +7,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at https://tamulaitiene.github.io/3-mergaite/
 
-Design: [MERGAITE]
+Design: [MERGAITE](https://media.discordapp.net/attachments/850245533838868480/850246211415834634/unknown.png)
 
 ## Project features
 
